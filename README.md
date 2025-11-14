@@ -18,6 +18,9 @@ The GeoJSON file includes the following fields:
 
 This map visualizes **casePer10k**.
 
+view by visiting 
+[link](https://github.com/lizbethsarabia/Covid19-Web-Mapping/blob/main/index.html)
+
 ## Technologies Used
 - HTML / CSS  
 - JavaScript  
